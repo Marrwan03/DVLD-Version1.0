@@ -98,7 +98,7 @@
 
 ###
 
-<h4 align="left">I want to create more features in the system like employees and admin and user has to apply for his tests and more operations.</h4>
+<h4 align="left">I want to create more features in the system like employees and user has to apply for his tests and more operations.</h4>
 
 ###
 
